@@ -947,3 +947,7 @@ object {
 	color:         #404040;
 	text-decoration: none;
 }
+
+.post-thumbnail {
+	border: none;
+}
